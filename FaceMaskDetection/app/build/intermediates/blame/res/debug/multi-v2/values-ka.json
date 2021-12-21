@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\AndroidStudioProjects\\FaceMaskDetection\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ka\\values-ka.xml",
+            "outputFile": "D:\\AndroidStudioProjects\\G02_Phan-mem-nhan-dien-nguoi-deo-khau-trang\\FaceMaskDetection\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ka\\values-ka.xml",
             "map": [
                 {
                     "source": "C:\\Users\\ASUS\\.gradle\\caches\\transforms-2\\files-2.1\\93be7174b7be54dada154bbbe746f6ab\\jetified-play-services-basement-17.0.0\\res\\values-ka\\values.xml",
