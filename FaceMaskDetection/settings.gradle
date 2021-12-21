@@ -1,0 +1,2 @@
+rootProject.name = "Face Mask Detection"
+include ':app'

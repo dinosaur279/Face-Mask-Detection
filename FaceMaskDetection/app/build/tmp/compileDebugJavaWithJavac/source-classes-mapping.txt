@@ -1,0 +1,2 @@
+com/doancuoiky_app/facemaskdetection/BuildConfig.java
+ com.doancuoiky_app.facemaskdetection.BuildConfig
